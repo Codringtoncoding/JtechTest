@@ -1,0 +1,27 @@
+body {
+    padding-top: 5rem;
+}
+
+h1,h2,h3, p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.container.form {
+    margin-top: 4rem;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0.5rem 1rem #e4d9d9;
+
+}
+
+.container.list-container {
+    margin-top: 4rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    background-color: rgb(111, 189, 189);
+    box-shadow: 5px 10px #e4d9d9;
+    display: flex;
+    justify-content: center;
+    
+}
